@@ -1,0 +1,26 @@
+p {
+    color: green;
+    font-size: 24;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+strong {
+    font-size: 35px;
+    color: black;
+}
+
+body {
+    background-color: cornsilk;
+    width: 1200px;
+    margin: 0 auto;
+    padding: 15px;
+    border: 2px solid black;
+}
+
+img {
+    border-radius: 40px;
+}
+
+li {
+    background-color: burlywood;
+}
